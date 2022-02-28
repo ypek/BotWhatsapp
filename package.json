@@ -1,12 +1,11 @@
 {
-  "name": "P7-BOT",
-  "version": "1.0.0",
-  "description": "Inteligência artificial feita por Aleatory!",
+  "name": "YpekBotV2",
+  "version": "2.0.0",
+  "description": "Inteligência artificial feita por Ypek!",
   "main": "index.js",
   "directories": {
     "lib": "lib"
   },
-  "devDependencies": {},
   "scripts": {
     "start": "node index",
     "test": "echo \"Erro ao iniciar\" && exit 1"
@@ -14,15 +13,15 @@
   "keywords": [
     "k"
   ],
-  "author": "Aleatory",
+  "author": "ypek",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Josival321/aleatory.git"
+    "url": "404"
   },
   "bugs": {
-    "url": "https://github.com/Josival321/aleatory/issues"
+    "url": "404"
   },
-  "homepage": "https://github.com/Josival321/aleatory/readme",
+  "homepage": "404",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",

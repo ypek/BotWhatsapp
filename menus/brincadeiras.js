@@ -14,7 +14,6 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │⎘⃯⃗➢ ${prefix}tapa (marca (@))
 │⎘⃯⃗➢ ${prefix}chute (marca (@))
 │⎘⃯⃗➢ ${prefix}dogolpe (marca (@))   
-│⎘⃯⃗➢ ${prefix}nazista (marca (@))
 │⎘⃯⃗➢ ${prefix}chance (fale algo) 
 │⎘⃯⃗➢ ${prefix}casal    
 │⎘⃯⃗➢ ${prefix}rankgay      
@@ -22,7 +21,6 @@ return `​​​​​​​​​​​​​​​​​​​​​​​​
 │⎘⃯⃗➢ ${prefix}rankcorno  
 │⎘⃯⃗➢ ${prefix}rankgostoso
 │⎘⃯⃗➢ ${prefix}rankgostosa
-│⎘⃯⃗➢ ${prefix}ranknazista
 │⎘⃯⃗➢ ${prefix}rankotakus
 │⎘⃯⃗➢ ${prefix}rankpau
 │⎘⃯⃗➢ ${prefix}calunia @marca/bla/bla

@@ -3,9 +3,7 @@ const menulogos = (prefix) => {
 ╭⎆──━──⊱⛦⊰──━──╮
 │
 │      > LOGOS <
-│  100% funcionando!! 
-│  qualquer error,
-│  é dos módulos ou termux 
+│  100% funcionando!!  
 │ 
 ├⎆──━──⊱⛦⊰──━──╮
 │      ✰•LOGOS TOPS•✰
